@@ -9,4 +9,8 @@ public class Class1 {
         System.out.println("git......");
         System.out.println("git......");
     }
+
+    public void a(){
+        int i=10;
+    }
 }
