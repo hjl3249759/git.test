@@ -12,5 +12,7 @@ public class Class1 {
 
     public void a(){
         int i=10;
+        i +=10;
+        System.out.println(i);
     }
 }
